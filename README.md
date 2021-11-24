@@ -1,8 +1,0 @@
-WELCOME BHAI TO PUNJABI LAUNCHER
-
-
-# THIS ONLY JOKE SO DONT REPORT THIS REPOSITORY AND THE OWNER(PojavLauncher) KNOW IT
-
-## REAL REPOSITORY
-
-[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) 
