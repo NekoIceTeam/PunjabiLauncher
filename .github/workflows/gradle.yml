@@ -22,7 +22,7 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Build PunjabiLauncher with Gradle
-      run: ./gradlew assembleDebug && ls ./app/build/outputs/apk
+      run: ./gradlew assembleDebug && ls ./app/build/outputs/apk/debug
 
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2.2.4
